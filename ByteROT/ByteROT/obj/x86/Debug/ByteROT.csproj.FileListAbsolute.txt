@@ -1,0 +1,14 @@
+C:\Users\medot\AppData\Local\Temporary Projects\ByteROT\bin\Debug\ByteROT.exe
+C:\Users\medot\AppData\Local\Temporary Projects\ByteROT\bin\Debug\ByteROT.pdb
+C:\Users\medot\AppData\Local\Temporary Projects\ByteROT\obj\x86\Debug\ByteROT.Form1.resources
+C:\Users\medot\AppData\Local\Temporary Projects\ByteROT\obj\x86\Debug\ByteROT.Properties.Resources.resources
+C:\Users\medot\AppData\Local\Temporary Projects\ByteROT\obj\x86\Debug\ByteROT.csproj.GenerateResource.Cache
+C:\Users\medot\AppData\Local\Temporary Projects\ByteROT\obj\x86\Debug\ByteROT.exe
+C:\Users\medot\AppData\Local\Temporary Projects\ByteROT\obj\x86\Debug\ByteROT.pdb
+D:\Desktopp\ByteROT\ByteROT\obj\x86\Debug\ByteROT.exe
+D:\Desktopp\ByteROT\ByteROT\obj\x86\Debug\ByteROT.pdb
+D:\Desktopp\ByteROT\ByteROT\bin\Debug\ByteROT.exe
+D:\Desktopp\ByteROT\ByteROT\bin\Debug\ByteROT.pdb
+D:\Desktopp\ByteROT\ByteROT\obj\x86\Debug\ByteROT.Form1.resources
+D:\Desktopp\ByteROT\ByteROT\obj\x86\Debug\ByteROT.Properties.Resources.resources
+D:\Desktopp\ByteROT\ByteROT\obj\x86\Debug\ByteROT.csproj.GenerateResource.Cache
